@@ -1,6 +1,6 @@
 baking powder
--flour
--sauce
--cheese
--topping
+flour
+sauce
+cheese
+topping
 
